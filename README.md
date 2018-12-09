@@ -1,5 +1,5 @@
 # FaceTrackingMatlabArduino
-This repository contains example code for the following Youtube tutorial: 
+This repository contains example code for the following Youtube video: 
 - https://www.youtube.com/watch?v=X1eb78jfWw4
 
 ## Getting Started
